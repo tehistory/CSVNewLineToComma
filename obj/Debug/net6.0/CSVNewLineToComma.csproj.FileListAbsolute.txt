@@ -1,0 +1,15 @@
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\bin\Debug\net6.0\CSVNewLineToComma.exe
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\bin\Debug\net6.0\CSVNewLineToComma.deps.json
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\bin\Debug\net6.0\CSVNewLineToComma.runtimeconfig.json
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\bin\Debug\net6.0\CSVNewLineToComma.dll
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\bin\Debug\net6.0\CSVNewLineToComma.pdb
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.csproj.AssemblyReference.cache
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.AssemblyInfoInputs.cache
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.AssemblyInfo.cs
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.csproj.CoreCompileInputs.cache
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.dll
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\refint\CSVNewLineToComma.dll
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.pdb
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\CSVNewLineToComma.genruntimeconfig.cache
+C:\Users\fegelhoff\source\repos\CSVNewLineToComma\obj\Debug\net6.0\ref\CSVNewLineToComma.dll
